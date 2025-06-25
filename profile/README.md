@@ -34,6 +34,14 @@ The Beijing Humanoid Robot Innovation Center was established in November 2023 in
           <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_Docs">TienKung_Docs</a></td>
         <td> User manuals and SDK documentation for the TienKung, including both the Lite and Pro versions, covering robot unboxing, daily usage, maintenance guidelines, and SDK interface instructions.<br></a></td>
     </tr>
+     <tr>
+          <td align="center" > <a href="https://huggingface.co/datasets/x-humanoid-robomind/ArtVIP">ArtVIP</a></td>
+        <td> We release a collection of 26 categories, 206 high-quality digital-twin articulated objects.We provide digital-twin scene assets and configured scenarios integrating articulated objects within scene for immediate use.All assets are provided in USD format and are open-source.The detailed production process and standard offer comprehensive guidance to facilitate community adoption and replication.<br></a></td>
+    </tr>
+     <tr>
+          <td align="center" > <a href="https://switchvla.github.io/">SwitchVLA</a></td>
+        <td> a unified execution-aware framework for Vision-Language-Action (VLA) robots. By conditioning action generation on both task language and fine-grained execution signals, SwitchVLA enables seamless transitions across forward, rollback, and advance behaviors—without relying on additional demonstration data, modular planners or handcrafted switching logic. SwitchVLA serves as a more generalizable solution for instruction-conditioned control—capable of unifying diverse switching behaviors within a single policy framework.<br></a></td>
+    </tr>
     </tr>
     </tbody>
 </table>
