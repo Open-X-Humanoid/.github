@@ -7,8 +7,6 @@ The Beijing Humanoid Robot Innovation Center was established in November 2023 in
 [![Email](https://img.shields.io/badge/Email-x--humanoid-red?logo=gmail&logoColor=white)](mailto:github@x-humanoid.com)
 [![Website](https://img.shields.io/badge/Website-OpenSource-green?logo=internet-explorer&logoColor=white)](https://opensource.x-humanoid-cloud.com/)
 [![Hugging Face Datasets](https://img.shields.io/badge/Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
-
 
 # Join Our Open Source Community!​
 Calling all developers worldwide! Whatever industry you're from, we'd love for you to contribute to our open source projects for embodied AI. Come help us build and enhance this ecosystem together.
