@@ -19,8 +19,13 @@ Here’s how you can get involved:
 - ​​Share Your Knowledge:​​ Write technical articles about using embodied AI. Check out our ongoing [RoboMIND Use Case Campaign for details](https://opensource.x-humanoid-cloud.com/forum.php?mod=viewthread&tid=216&extra=page%3D1) – you could win generous prizes!
 - ​​Partner With Us:​​ Looking to collaborate? Universities and companies – we're open to ideas! If you've got a proposal, reach out and let's talk.
 
-# Contact Us
-- opensource@x-humanoid.com
+# Open Source Activities
+​​Here are our latest open-source activities in the community – stay tuned! 🚀
+
+- [Open Source Software Supply ChainPromotion Plan(OSPP 2025)](https://summer-ospp.ac.cn/org/prodetail/2574e0390?list=org&navpage=org)
+- [2025 GLCC](https://www.gitlink.org.cn/glcc/2025/projects)
+- [RoboMIND Use Case Campaign](https://opensource.x-humanoid-cloud.com/forum.php?mod=viewthread&tid=216&extra=page%3D1)
+
 
 # Repositories
 <table><tbody>
@@ -59,6 +64,8 @@ Here’s how you can get involved:
     </tbody>
 </table>
 
+# Contact Us
+- opensource@x-humanoid.com
 
 # Developer Community
 <img src="./static/qrcode.png" border=0 width=30%>
