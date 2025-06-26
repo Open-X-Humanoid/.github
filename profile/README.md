@@ -28,7 +28,7 @@ The Beijing Humanoid Robot Innovation Center was established in November 2023 in
     </tr>
      <tr>
           <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_ROS">TienKung_ROS</a></td>
-        <td>The Tien Kung software system, developed based on the ROS frameworkis the low-level implementation directly responsible for hardware controlincluding key modules such as body control (body_control), motionplanning (rl_control_new), robot description (robot_description), andremote control communication (usb sbus), responsible for the basic motioncontrol and hardware driving of the robot.<br></a></td>
+        <td>The Tien Kung software system, developed based on the ROS frameworkis the low-level implementation directly responsible for hardware controlincluding key modules such as body control (body_control),robot description (robot_description), andremote control communication (usb sbus), responsible for the basic motioncontrol and hardware driving of the robot.<br></a></td>
     </tr>
     <tr>
           <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_Docs">TienKung_Docs</a></td>
