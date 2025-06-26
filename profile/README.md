@@ -9,7 +9,20 @@ The Beijing Humanoid Robot Innovation Center was established in November 2023 in
 [![Hugging Face Datasets](https://img.shields.io/badge/Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
-# Open Source Projects
+
+# Join Our Open Source Community!​
+Calling all developers worldwide! Whatever industry you're from, we'd love for you to contribute to our open source projects for embodied AI. Come help us build and enhance this ecosystem together.
+
+Here’s how you can get involved:
+
+- ​​Explore & Contribute:​​ Dive into our projects. Give them a good try! If you find an issue, tell us. Even better – we'd be thrilled if you submit a PR fix!  
+- ​​Share Your Knowledge:​​ Write technical articles about using embodied AI. Check out our ongoing [RoboMIND Use Case Campaign for details](https://opensource.x-humanoid-cloud.com/forum.php?mod=viewthread&tid=216&extra=page%3D1) – you could win generous prizes!
+- ​​Partner With Us:​​ Looking to collaborate? Universities and companies – we're open to ideas! If you've got a proposal, reach out and let's talk.
+
+# Contact Us
+- opensource@x-humanoid.com
+
+# Repositories
 <table><tbody>
 
 <table class="table table-striped table-bordered table-vcenter"/>
