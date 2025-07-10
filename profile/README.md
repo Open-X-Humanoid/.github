@@ -39,16 +39,16 @@ Here’s how you can get involved:
         <td>This project provides a training toolchain for adapting TienKung humanoid robots and RoboMIND dataset with the open-source LeRobot framework. It enables users to facilitates development using RoboMIND dataset and train embodied manipulation models for TienKung robots based on the Lerobot.<br></a></td>
     </tr>
     <tr>
+          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung-Lab">TienKung-Lab</a></td>
+        <td> This framework is an RL-based locomotion control system designed for full-sized humanoid robots, TienKung. It integrates AMP-style rewards with periodic gait rewards, facilitating natural, stable, and efficient walking and running behaviors.<br></a></td>
+    </tr>
+    <tr>
          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_URDF">TienKung_URDF</a></td>
         <td>urdf publish is the URDF package for Tien Kung,which includes complete robot description files (URDF) and mesh files(STL), defining core parameters such as mechanical structure, joint limits,and mass distribution.lt supports motion planning and control algorithmverification in the ROS environment and Gazebo simulation platform.<br></a></td>
     </tr>
      <tr>
           <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_ROS">TienKung_ROS</a></td>
         <td>The Tien Kung software system, developed based on the ROS frameworkis the low-level implementation directly responsible for hardware controlincluding key modules such as body control (body_control),robot description (robot_description), andremote control communication (usb sbus), responsible for the basic motioncontrol and hardware driving of the robot.<br></a></td>
-    </tr>
-    <tr>
-          <td align="center" > <a href="https://github.com/Open-X-Humanoid/TienKung_Docs">TienKung_Docs</a></td>
-        <td> User manuals and SDK documentation for the TienKung, including both the Lite and Pro versions, covering robot unboxing, daily usage, maintenance guidelines, and SDK interface instructions.<br></a></td>
     </tr>
      <tr>
           <td align="center" > <a href="https://huggingface.co/datasets/x-humanoid-robomind/ArtVIP">ArtVIP</a></td>
