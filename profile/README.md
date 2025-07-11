@@ -32,7 +32,7 @@ Here’s how you can get involved:
     <tbody>
     <tr><th> Title </th> <th>Description</th>
     <tr>
-       <td align="center" > <a href="https://x-humanoid-robomind.github.io/">RoboMIND</a></td>
+       <td align="center" > <a href="https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND">RoboMIND</a></td>
         <td>  a comprehensive dataset featuring 107k real-world demonstration trajectories spanning 479 distinct tasks and involving 96 unique object classes.<br></a></td>
      <tr>
          <td align="center" > <a href="https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain">x-humanoid-training-toolchain</a></td>
