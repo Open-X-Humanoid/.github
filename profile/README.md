@@ -32,8 +32,16 @@ Here’s how you can get involved:
     <tbody>
     <tr><th> Title </th> <th>Description</th>
     <tr>
-       <td align="center" > <a href="https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND">RoboMIND</a></td>
+       <td align="center" > <a href="https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND">RoboMIND V1.0</a></td>
         <td>  a comprehensive dataset featuring 107k real-world demonstration trajectories spanning 479 distinct tasks and involving 96 unique object classes.<br></a></td>
+    <tr>
+         <td align="center" > <a href="https://modelscope.cn/collections/X-Humanoid/RoboMIND20">RoboMIND V2.0</a></td>
+        <td>Newly added 300,000+ bimanual manipulation trajectories, covering 6 robot embodiments including TienKung;Multi-scenario, multi-task, and multi-skill coverage, comprising 10+ scene setups, 739 tasks, and 129                 skills;Incorporates 8 mainstream model validations including UVA, DP3, PI0.5, and XR-1;12,000+ tactile manipulation data entries to support training of VTLA and MLA models;Applicable for training robot                     "large‑brain and small‑brain" models, enabling long‑horizon collaborative tasks across different robot platforms.<br></a></td>
+    </tr>
+    <tr>
+         <td align="center" > <a href="https://huggingface.co/collections/X-Humanoid/xr-1">XR-1</a></td>
+        <td>We introduce XR-1, a versatile and scalable vision-language-action framework. XR-1 supports robust multi-task learning across diverse robot embodiments and environments.In XR-1, we introduce the Unified Vision-            Motion Codes (UVMC), a discrete latent representation that jointly encodes visual dynamics and robotic motion. XR-1 adopts a three-stage training paradigm to enable precise low-level control across diverse                    robots and tasks..<br></a></td>
+    </tr>
      <tr>
          <td align="center" > <a href="https://github.com/Open-X-Humanoid/x-humanoid-training-toolchain">x-humanoid-training-toolchain</a></td>
         <td>This project provides a training toolchain for adapting TienKung humanoid robots and RoboMIND dataset with the open-source LeRobot framework. It enables users to facilitates development using RoboMIND dataset and train embodied manipulation models for TienKung robots based on the Lerobot.<br></a></td>
